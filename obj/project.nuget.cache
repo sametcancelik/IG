@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nq7Dq29BRZy7AfSYWssR0knojHbXm8DpALjd+YahO+qES6xLou7jkR8ff1tkjxD1CqmOswdMV/viwL/gT7WlxQ==",
+  "success": true,
+  "projectFilePath": "/Users/celik/Desktop/Projects/net/IG/IG.csproj",
+  "expectedPackageFiles": [
+    "/Users/celik/.nuget/packages/selenium.support/4.28.0/selenium.support.4.28.0.nupkg.sha512",
+    "/Users/celik/.nuget/packages/selenium.webdriver/4.28.0/selenium.webdriver.4.28.0.nupkg.sha512",
+    "/Users/celik/.nuget/packages/selenium.webdriver.chromedriver/133.0.6943.9800/selenium.webdriver.chromedriver.133.0.6943.9800.nupkg.sha512"
+  ],
+  "logs": []
+}
